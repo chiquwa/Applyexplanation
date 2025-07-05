@@ -1,0 +1,2 @@
+# Applyexplanation
+kintoneでアプリの説明を非表示にするプラグイン
